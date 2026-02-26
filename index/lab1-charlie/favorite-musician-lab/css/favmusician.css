@@ -1,0 +1,88 @@
+
+/* TO MAKE THE LINK TEXT SIZE BIGGER */
+a {
+    font-size: large;
+    color: aliceblue;
+}
+
+body {
+    background-color: black;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+}
+
+blockquote {
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+    text-decoration: underline solid red;
+}
+
+h2 {
+    text-align: center;
+    color: aliceblue;
+    text-decoration: underline solid red;
+}
+
+header {
+    color: aliceblue;
+    text-align: center;
+}
+
+
+
+/* MARGIN LEFT TO CENTER ON PAGE */
+.whyfav {
+    color: aliceblue;
+    width: 35%;
+    margin-left: 31%;
+    border: 3px solid red;
+    padding: 2%;
+    
+    
+}
+
+.about {
+    color: aliceblue;
+    width: 30%;
+    margin-left: 35%;
+    text-align: center;
+}
+
+.membersimg {
+    border: 5px solid red;
+}
+
+.logo {
+    border: 5px solid red;
+}
+
+
+.discography {
+    column-count: 4;
+}
+
+dd {
+    
+    font-style: italic;
+}
+
+dt {
+    
+    text-decoration: underline 2px solid red;
+}
+
+dl {
+    color: aliceblue;
+}
+
+ul {
+    color: aliceblue;
+}
+
+footer {
+    color: aliceblue;
+    text-align: center;
+}
